@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Automation testing
-- 🌱 I’m currently learning Automation 
+- 🌱 I’m currently learning Java and selenium framework 
 - 😄 Pronouns: She
 -->
