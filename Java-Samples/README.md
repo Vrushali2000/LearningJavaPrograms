@@ -8,9 +8,9 @@ This repository showcases my Java programming skills, from beginner to project-l
 - **Projects**: Complete Java projects demonstrating real-world applications
 
 ## How to Use
-- Browse each folder to see example Java code.
+- Browse each folder to see Java code.
 - Each file is self-contained and can be compiled/run individually.
 
 ---
 
-Feel free to explore and use these examples to learn or demonstrate Java programming!
+
